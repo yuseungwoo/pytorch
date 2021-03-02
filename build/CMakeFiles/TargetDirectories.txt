@@ -1,0 +1,3 @@
+/speech/users/ysw/workspace/libtorch/resnet_sample/build/CMakeFiles/edit_cache.dir
+/speech/users/ysw/workspace/libtorch/resnet_sample/build/CMakeFiles/rebuild_cache.dir
+/speech/users/ysw/workspace/libtorch/resnet_sample/build/CMakeFiles/inf.dir
